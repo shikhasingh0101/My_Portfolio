@@ -1,0 +1,15 @@
+export const profile = {
+  name: "Shikha Singh",
+  shortName: "SHIKHA",
+  title: "Software Engineering | Full-Stack Development | Machine Learning | AI/ML",
+  shortTitle: "Full-Stack Developer + ML/AI Builder",
+  education: "B.Tech Computer Science • ITM Skills University",
+  location: "Mumbai Metropolitan Region, India",
+  email: "shikhasingh.70219@gmail.com",
+  github: "https://github.com/shikhasingh0101",
+  linkedin: "https://www.linkedin.com/in/shikha-singh-20460a283/",
+  leetcode: "https://leetcode.com/u/shikha_singh0101/",
+  portfolio: "https://shikhasinghportfolio.vercel.app/",
+  resume: "/Shikha-Singh-Resume.pdf",
+  bio: "Computer Science undergraduate with software development internship experience and hands-on projects across web, mobile, machine learning and AI applications. I build practical software by connecting user interfaces, APIs, databases and data-driven workflows.",
+};
