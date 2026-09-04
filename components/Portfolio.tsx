@@ -179,7 +179,7 @@ export default function Portfolio() {
       <section id="contact" className="section contact narrow">
         <div className="contact-card">
           <div className="contact-intro"><div className="section-kicker">08 / CONTACT</div><h2>Have an idea?<br /><span className="gradient-text">Let&apos;s build it.</span></h2><p>Open to internships, collaborations, full-stack projects and ML/AI opportunities.</p><div className="contact-socials"><a href={profile.github} target="_blank"><Github /></a><a href={profile.linkedin} target="_blank"><Linkedin /></a><a href={`mailto:${profile.email}`}><Mail /></a></div></div>
-          <ContactForm email={profile.email} />
+          <ContactForm />
         </div>
       </section>
 
